@@ -4,7 +4,7 @@ Segundo o Só Biologia a “Síntese de RNA (mensageiro, por exemplo) se inicia 
 
 Essa síntese estava sendo analisada em um centro de genética, através de equipamento que geraram a cadeia de DNA e RNA de modo textual.
 
-Pensando em automatizar funturos mapeamentos de mutação, foi solicitado a criação de um programa que pudesse gerar de modo mais rápido a sequência de RNA a partir de um DNA.
+Pensando em automatizar futuros mapeamentos de mutação, foi solicitado a criação de um programa que pudesse gerar de modo mais rápido a sequência de RNA a partir de um DNA.
 
 Imaginando um segmento hipotético de um filamento de DNA com a seqüência de bases:
 
